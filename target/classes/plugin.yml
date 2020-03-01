@@ -1,0 +1,10 @@
+name: MordTeleport
+version: 1.0-SNAPSHOT
+main: com.mordonia.mordteleport.MordTeleport
+api-version: 1.13
+authors: [AlexxSGames]
+description: A teleportation plugin for Mordonia
+website: mordoniamc.com
+commands:
+  mordtp:
+    description: Main command used to create the teleporters.

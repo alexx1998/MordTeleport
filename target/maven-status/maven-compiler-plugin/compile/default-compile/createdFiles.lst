@@ -1,0 +1,5 @@
+com\mordonia\mordteleport\events\data\LocationData.class
+com\mordonia\mordteleport\events\data\LocationDataManger.class
+com\mordonia\mordteleport\MordTeleport.class
+com\mordonia\mordteleport\commands\Commands.class
+com\mordonia\mordteleport\events\PlayerShiftEvent.class

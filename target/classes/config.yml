@@ -1,0 +1,5 @@
+tp: 0 0 0
+worlds:
+  world: tutorial
+  remove: beggar
+  add: peasant
